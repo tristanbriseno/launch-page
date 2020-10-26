@@ -1,0 +1,16 @@
+
+/* body color */
+body {color:red;}
+/* nav-bar color */
+.navbar {padding 1rem;background-color: blue;}
+/* botton hoveer */
+.btn-primary:hover {
+  background-color: blue;
+  color: white;}
+
+  /* styles.css */
+.hero-background-img {
+  background-image: url("mikkel-bech-yjAFnkLtKY0-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;}
